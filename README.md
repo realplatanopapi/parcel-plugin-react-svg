@@ -1,4 +1,4 @@
-# parcel-plugin-react-svg
+# parcel-plugin-react-svg [![Build Status](https://travis-ci.org/restlessbit/parcel-plugin-react-svg.svg?branch=master)](https://travis-ci.org/restlessbit/parcel-plugin-react-svg)
 
 Parcel plugin for using SVGs as React Components.
 
