@@ -1,4 +1,6 @@
-# parcel-plugin-react-svg [![Build Status](https://travis-ci.org/restlessbit/parcel-plugin-react-svg.svg?branch=master)](https://travis-ci.org/restlessbit/parcel-plugin-react-svg)
+# [DEPRECATED] parcel-plugin-react-svg [![Build Status](https://travis-ci.org/restlessbit/parcel-plugin-react-svg.svg?branch=master)](https://travis-ci.org/restlessbit/parcel-plugin-react-svg)
+
+**This package has been deprecated in favor of the [official SVGR package](https://github.com/smooth-code/svgr/tree/master/packages/parcel-plugin-svgr).**
 
 Parcel plugin for using SVGs as React components.
 
